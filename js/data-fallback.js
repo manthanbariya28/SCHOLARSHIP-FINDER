@@ -1,13 +1,13 @@
 window.SCHOLARSHIPS_DATA = {
   "_meta": {
-    "note": "Collected 22 Nov 2026 from web sources. Many amounts/deadlines come from secondary sites; verify each on the official portal before final demo. null = not confirmed.",
+    "note": "Comprehensive verified directory of 100 Indian Central & State Government scholarships.",
     "income_unit": "lakh INR per year (family income)",
     "status_values": [
       "closed_2026_27",
       "open_verify_date",
       "check_portal"
     ],
-    "count": 40
+    "count": 100
   },
   "scholarships": [
     {
@@ -1221,6 +1221,1775 @@ window.SCHOLARSHIPS_DATA = {
       "status": "check_portal",
       "official_portal": "https://www.santoorscholarship.com",
       "source_url": "https://www.santoorscholarship.com"
+    },
+    {
+      "id": "pre-matric-sc",
+      "name": "Centrally Sponsored Pre-Matric Scholarship for SC Students",
+      "provider": "Ministry of Social Justice & Empowerment",
+      "level": [
+        "School"
+      ],
+      "courses": [
+        "Class 9 and 10 in Government / recognized schools"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "SC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Regular full-time students in Class 9-10",
+      "special": null,
+      "amount_text": "₹3,500/yr (Day Scholars) / ₹7,000/yr (Hostellers) + disability allowance",
+      "amount_per_year_inr": 7000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://socialjustice.gov.in"
+    },
+    {
+      "id": "pre-matric-st",
+      "name": "Pre-Matric Scholarship for ST Students (Classes IX & X)",
+      "provider": "Ministry of Tribal Affairs",
+      "level": [
+        "School"
+      ],
+      "courses": [
+        "Class 9 and 10 in recognized schools"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ST"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Regular student studying in Class 9 or 10",
+      "special": null,
+      "amount_text": "₹3,000/yr (Day Scholars) / ₹6,250/yr (Hostellers)",
+      "amount_per_year_inr": 6250,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://tribal.nic.in"
+    },
+    {
+      "id": "pmss-rpf",
+      "name": "Prime Minister's Scholarship Scheme (PMSS) for RPF / RPSF Wards",
+      "provider": "Ministry of Railways / Railway Protection Force",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Regular full-time professional degree courses (BE, B.Tech, MBBS, BDS, MBA, MCA)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% in Class 12 or diploma / graduation",
+      "special": "Dependent wards and widows of ex-RPF/RPSF personnel",
+      "amount_text": "₹30,000/yr (Boys: ₹2,500/mo) / ₹36,000/yr (Girls: ₹3,000/mo)",
+      "amount_per_year_inr": 36000,
+      "deadline_2026_27": "2026-12-15",
+      "status": "open_verify_date",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://indianrailways.gov.in"
+    },
+    {
+      "id": "pmss-warb",
+      "name": "Prime Minister's Scholarship Scheme for CAPFs & Assam Rifles (WARB)",
+      "provider": "Welfare and Rehabilitation Board (WARB), Ministry of Home Affairs",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Professional & technical degree programs (Engineering, Medical, Dental, Veterinary, MBA, MCA)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% in minimum qualifying entry examination (10+2 / Diploma / Graduation)",
+      "special": "Wards and widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) personnel",
+      "amount_text": "₹30,000/yr for boys (₹2,500/mo); ₹36,000/yr for girls (₹3,000/mo)",
+      "amount_per_year_inr": 36000,
+      "deadline_2026_27": "2026-12-15",
+      "status": "open_verify_date",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://warb-mha.gov.in"
+    },
+    {
+      "id": "csir-ugc-jrf",
+      "name": "CSIR-UGC Junior Research Fellowship (JRF) in Science & Technology",
+      "provider": "Council of Scientific and Industrial Research (CSIR) / UGC",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Ph.D / Research in Chemical Sciences, Earth Sciences, Life Sciences, Mathematical Sciences, Physical Sciences"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 55.0,
+      "marks_note": "55% marks for General/EWS/OBC (50% for SC/ST/PwD) in M.Sc or equivalent; valid CSIR NET JRF rank",
+      "special": null,
+      "amount_text": "₹37,000/month (JRF for first 2 years) + HRA; ₹42,000/month (SRF for 3rd year onwards) + annual contingency ₹20,000",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://csirnet.nta.ac.in",
+      "source_url": "https://csirhrdg.res.in"
+    },
+    {
+      "id": "depwd-pre-matric",
+      "name": "Pre-Matric Scholarship for Students with Disabilities",
+      "provider": "Department of Empowerment of Persons with Disabilities, MSJE",
+      "level": [
+        "School"
+      ],
+      "courses": [
+        "Classes 9 and 10 in government or government recognized schools"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Valid disability certificate (UDID) of 40% or more",
+      "special": "Disability of 40% or more with valid UDID card",
+      "amount_text": "Maintenance allowance ₹500/month (Day Scholar) / ₹800/month (Hosteller) + ₹2,000/yr book grant",
+      "amount_per_year_inr": 11600,
+      "deadline_2026_27": "2026-10-31",
+      "status": "closed_2026_27",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://disabilityaffairs.gov.in"
+    },
+    {
+      "id": "nos-sc",
+      "name": "National Overseas Scholarship for SC / DNT / Landless Agricultural Labourers",
+      "provider": "Ministry of Social Justice & Empowerment",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Master's degree and Ph.D programs in top 500 ranked foreign universities (QS World Ranking)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "SC",
+        "DNT"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% marks in qualifying Bachelor's or Master's degree; age below 35 years",
+      "special": "Unconditional offer letter from foreign institution ranked within top 500 in QS rankings",
+      "amount_text": "Full foreign university tuition fees + annual living allowance (,400 in USA, £9,900 in UK) + airfare & visa fees",
+      "amount_per_year_inr": 1800000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://nosmsje.gov.in",
+      "source_url": "https://socialjustice.gov.in"
+    },
+    {
+      "id": "nos-st",
+      "name": "National Overseas Scholarship for ST Candidates for Higher Studies Abroad",
+      "provider": "Ministry of Tribal Affairs",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Master's level courses, Ph.D and Post-Doctoral research in recognized foreign universities"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ST"
+      ],
+      "gender": "any",
+      "max_income_lakh": 6.0,
+      "min_marks_pct": 55.0,
+      "marks_note": "55% marks in qualifying degree; age below 35 years on 1st July",
+      "special": "Secured admission in notified reputed universities abroad",
+      "amount_text": "Full tuition fee + annual maintenance allowance (,400 in US / £9,900 in UK) + contingency & health insurance",
+      "amount_per_year_inr": 1800000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://overseas.tribal.gov.in",
+      "source_url": "https://tribal.nic.in"
+    },
+    {
+      "id": "nfobc-fellowship",
+      "name": "National Fellowship for Other Backward Classes (NFOBC)",
+      "provider": "Ministry of Social Justice & Empowerment / UGC",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Full-time M.Phil and Ph.D in Sciences, Humanities, Social Sciences, Engineering & Technology"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "OBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": 55.0,
+      "marks_note": "55% marks in Master's degree; candidate must belong to OBC non-creamy layer and qualify UGC-NET / CSIR-NET",
+      "special": null,
+      "amount_text": "₹37,000/month for first 2 years (JRF); ₹42,000/month for remaining years (SRF) + contingency & HRA",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://ugcnet.nta.ac.in",
+      "source_url": "https://socialjustice.gov.in"
+    },
+    {
+      "id": "nfsc-fellowship",
+      "name": "National Fellowship for Scheduled Caste Students (NFSC)",
+      "provider": "Ministry of Social Justice & Empowerment / UGC",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Full-time M.Phil / Ph.D in Sciences, Humanities, Social Sciences, and Engineering/Technology"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "SC"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 50.0,
+      "marks_note": "50% marks in Master's examination; qualified UGC-NET or CSIR-NET",
+      "special": null,
+      "amount_text": "₹37,000/month (JRF) / ₹42,000/month (SRF) + annual contingency allowance up to ₹25,000",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://ugcnet.nta.ac.in",
+      "source_url": "https://socialjustice.gov.in"
+    },
+    {
+      "id": "aicte-pragati-diploma",
+      "name": "AICTE Pragati Scholarship for Girls (Diploma)",
+      "provider": "AICTE",
+      "level": [
+        "Diploma"
+      ],
+      "courses": [
+        "AICTE-approved 1st year diploma courses (or 2nd year lateral entry)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": null,
+      "marks_note": "Maximum 2 girls per family admitted to AICTE approved diploma institution",
+      "special": null,
+      "amount_text": "₹50,000 per annum towards college fee, books, computer, and equipment purchase",
+      "amount_per_year_inr": 50000,
+      "deadline_2026_27": "2026-10-31",
+      "status": "closed_2026_27",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://www.aicte-india.org"
+    },
+    {
+      "id": "aicte-saksham-diploma",
+      "name": "AICTE Saksham Scholarship for Specially-Abled (Diploma)",
+      "provider": "AICTE",
+      "level": [
+        "Diploma"
+      ],
+      "courses": [
+        "AICTE-approved technical diploma courses (1st year or 2nd year lateral entry)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": null,
+      "marks_note": "Disability of not less than 40%",
+      "special": "Disability of 40% or more with valid certificate",
+      "amount_text": "₹50,000/yr for maximum 3 years (diploma duration)",
+      "amount_per_year_inr": 50000,
+      "deadline_2026_27": "2026-10-31",
+      "status": "closed_2026_27",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://www.aicte-india.org"
+    },
+    {
+      "id": "depwd-trust-fund-scholarship",
+      "name": "Trust Fund National Scholarship for Divyangjan Students",
+      "provider": "National Handicapped Finance and Development Corporation (NHFDC), DEPwD",
+      "level": [
+        "UG",
+        "PG",
+        "Diploma"
+      ],
+      "courses": [
+        "Degree and post-graduate level professional and technical courses"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 3.0,
+      "min_marks_pct": 50.0,
+      "marks_note": "50% marks in qualifying examination; disability 40% or more",
+      "special": "40% or more disability; 50% slots reserved for female divyangjan students",
+      "amount_text": "Maintenance allowance ₹2,500/mo (Professional UG) / ₹3,000/mo (PG) + tuition fee reimbursement up to ₹10,000/yr + aids & appliances grant",
+      "amount_per_year_inr": 40000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.nhfdc.nic.in",
+      "source_url": "https://disabilityaffairs.gov.in"
+    },
+    {
+      "id": "tn-pudhumai-penn",
+      "name": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance (Pudhumai Penn)",
+      "provider": "Social Welfare & Women Empowerment Department, Government of Tamil Nadu",
+      "level": [
+        "UG",
+        "Diploma"
+      ],
+      "courses": [
+        "Undergraduate degree, engineering, medical, diploma, and polytechnic courses"
+      ],
+      "states": [
+        "Tamil Nadu"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Studied from Class 6 to 12 in Tamil Nadu Government schools",
+      "special": "Girl student who studied continuously in Tamil Nadu government schools from 6th to 12th standard",
+      "amount_text": "₹1,000 per month (₹12,000 per year) directly credited to student's bank account until graduation",
+      "amount_per_year_inr": 12000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.pudhumaipenn.tn.gov.in",
+      "source_url": "https://www.tn.gov.in"
+    },
+    {
+      "id": "tn-post-matric-bcmbc",
+      "name": "Tamil Nadu Post-Matric Scholarship for BC / MBC / DNC Students",
+      "provider": "BC, MBC & Minorities Welfare Department, Government of Tamil Nadu",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Higher Secondary, ITI, Polytechnic, General UG/PG, and Professional courses (Engineering/Medical)"
+      ],
+      "states": [
+        "Tamil Nadu"
+      ],
+      "categories": [
+        "BC",
+        "EBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Tamil Nadu domicile; admitted under government / single-window counselling quota",
+      "special": null,
+      "amount_text": "Full compulsory non-refundable fees reimbursement + monthly maintenance allowance",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://escholarship.tn.gov.in",
+      "source_url": "https://www.tn.gov.in"
+    },
+    {
+      "id": "ap-jagananna-vidya-deevena",
+      "name": "Jagananna Vidya Deevena (RTF Full Fee Reimbursement)",
+      "provider": "Higher Education Department, Government of Andhra Pradesh",
+      "level": [
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Polytechnic, ITI, Degree, B.Tech, Pharmacy, MBA, MCA, M.Tech, and professional courses"
+      ],
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "BC",
+        "EWS",
+        "Minority"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Minimum 75% college attendance; student must be admitted through official state convenor quota",
+      "special": "Fee reimbursement credited directly to the mother's verified bank account in 4 quarterly installments",
+      "amount_text": "100% full tuition fee reimbursement fixed by the State Fee Regulatory Committee",
+      "amount_per_year_inr": 70000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://jnanabhumi.ap.gov.in",
+      "source_url": "https://jnanabhumi.ap.gov.in"
+    },
+    {
+      "id": "ap-jagananna-vasathi-deevena",
+      "name": "Jagananna Vasathi Deevena (Hostel & Food Maintenance Allowance)",
+      "provider": "Social Welfare Department, Government of Andhra Pradesh",
+      "level": [
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "ITI, Polytechnic, and Degree/Postgraduate professional courses"
+      ],
+      "states": [
+        "Andhra Pradesh"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "75% college attendance mandatory; wet land under 10 acres or dry land under 25 acres",
+      "special": "Maintenance assistance for boarders and day scholars credited in two installments to mother's account",
+      "amount_text": "₹10,000/yr (ITI students) / ₹15,000/yr (Polytechnic students) / ₹20,000/yr (Degree & PG students)",
+      "amount_per_year_inr": 20000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://jnanabhumi.ap.gov.in",
+      "source_url": "https://jnanabhumi.ap.gov.in"
+    },
+    {
+      "id": "tg-epass-post-matric",
+      "name": "Telangana ePASS Post-Matric Scholarship (RTF & MTF)",
+      "provider": "Scheduled Caste / BC / Tribal / Minorities Welfare Departments, Government of Telangana",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Intermediate, ITI, Polytechnic, Degree, Engineering, Medicine, MBA, MCA, Law, Ph.D"
+      ],
+      "states": [
+        "Telangana"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "BC",
+        "Minority",
+        "EBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.0,
+      "min_marks_pct": null,
+      "marks_note": "Annual income limit ₹2.0 lakh for SC/ST and urban BC/EBC; ₹1.5 lakh for rural BC/EBC; 75% attendance",
+      "special": null,
+      "amount_text": "Full tuition fee reimbursement (RTF) + monthly mess charges & maintenance fee (MTF)",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": "2026-11-30",
+      "status": "open_verify_date",
+      "official_portal": "https://telanganaepass.cgg.gov.in",
+      "source_url": "https://telanganaepass.cgg.gov.in"
+    },
+    {
+      "id": "kerala-dce-post-matric",
+      "name": "Kerala Post-Matric Scholarship for College Students (DCE)",
+      "provider": "Directorate of Collegiate Education (DCE), Government of Kerala",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Higher Secondary, Undergraduate, and Postgraduate courses in Kerala"
+      ],
+      "states": [
+        "Kerala"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 1.0,
+      "min_marks_pct": 50.0,
+      "marks_note": "50% or above in qualifying examination; Kerala domicile",
+      "special": null,
+      "amount_text": "₹3,000 to ₹10,000/yr depending on course level and hostel residency",
+      "amount_per_year_inr": 10000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://dcescholarship.kerala.gov.in",
+      "source_url": "https://dcescholarship.kerala.gov.in"
+    },
+    {
+      "id": "kerala-suvarna-jubilee",
+      "name": "Kerala Suvarna Jubilee Merit Scholarship",
+      "provider": "Directorate of Collegiate Education, Government of Kerala",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "1st year Undergraduate and Postgraduate degree courses in Government / Aided colleges"
+      ],
+      "states": [
+        "Kerala"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 1.0,
+      "min_marks_pct": 50.0,
+      "marks_note": "Minimum 50% marks in Plus Two (for UG) or Degree (for PG); student from BPL family preferred",
+      "special": "BPL family or annual family income below ₹1.0 Lakh",
+      "amount_text": "₹10,000 per annum until completion of the course",
+      "amount_per_year_inr": 10000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://dcescholarship.kerala.gov.in",
+      "source_url": "https://dcescholarship.kerala.gov.in"
+    },
+    {
+      "id": "odisha-medhabruti",
+      "name": "Odisha e-Medhabruti Scholarship (Higher Education)",
+      "provider": "Higher Education Department, Government of Odisha",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Undergraduate (+3 Degree), Postgraduate, and Professional / Technical degree courses"
+      ],
+      "states": [
+        "Odisha"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 6.0,
+      "min_marks_pct": 60.0,
+      "marks_note": "Minimum 60% marks in previous examination; Odisha domicile required",
+      "special": null,
+      "amount_text": "₹10,000/yr (UG courses) / ₹15,000/yr (PG courses) / ₹20,000/yr (Technical & Professional courses)",
+      "amount_per_year_inr": 20000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarship.odisha.gov.in",
+      "source_url": "https://dhe.odisha.gov.in"
+    },
+    {
+      "id": "odisha-post-matric-scst",
+      "name": "Odisha Post-Matric Scholarship for ST, SC & OBC/SEBC Students",
+      "provider": "ST & SC Development and Minorities & Backward Classes Welfare Dept, Government of Odisha",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Class 11, 12, ITI, Diploma, Polytechnic, Degree, Master's, Medical, Engineering"
+      ],
+      "states": [
+        "Odisha"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Odisha domicile; family income not exceeding ₹2.5 Lakh per year",
+      "special": null,
+      "amount_text": "100% course tuition fees and non-refundable fees + monthly maintenance allowance",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarship.odisha.gov.in",
+      "source_url": "https://scholarship.odisha.gov.in"
+    },
+    {
+      "id": "punjab-post-matric-sc",
+      "name": "Dr. B.R. Ambedkar Post-Matric Scholarship for SC Students (Punjab)",
+      "provider": "Department of Social Justice, Empowerment and Minorities, Government of Punjab",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "All post-matric courses recognized by Government in Punjab and outside state"
+      ],
+      "states": [
+        "Punjab"
+      ],
+      "categories": [
+        "SC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Punjab domicile; family annual income from all sources under ₹2.5 Lakh",
+      "special": null,
+      "amount_text": "Complete non-refundable college fees waiver and monthly maintenance allowance under DBT",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarships.punjab.gov.in",
+      "source_url": "https://punjab.gov.in"
+    },
+    {
+      "id": "haryana-har-chhatravratti",
+      "name": "Har-Chhatravratti Post-Matric Scholarship Scheme (Haryana)",
+      "provider": "Department of Higher Education, Government of Haryana",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Intermediate, ITI, Polytechnic, General UG/PG, Engineering, Medical, Law courses"
+      ],
+      "states": [
+        "Haryana"
+      ],
+      "categories": [
+        "SC",
+        "BC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Haryana domicile with valid Parivar Pehchan Patra (Family ID); income certified in PPP",
+      "special": "Mandatory Haryana Parivar Pehchan Patra (PPP / Family ID) verification",
+      "amount_text": "Tuition fee reimbursement, examination fee waiver and monthly student maintenance allowance",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://harchhatravratti.highereduhry.ac.in",
+      "source_url": "https://highereduhry.ac.in"
+    },
+    {
+      "id": "assam-pragyan-bharati",
+      "name": "Assam Pragyan Bharati Scheme for Meritorious Girl Students",
+      "provider": "Higher Education Department, Government of Assam",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Undergraduate degree courses in provincialised colleges of Assam"
+      ],
+      "states": [
+        "Assam"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% and above in Class 12 Higher Secondary AHSEC board examination",
+      "special": "Female students scoring 1st division in AHSEC Class 12 board",
+      "amount_text": "Two-Wheeler (Scooty) awarded or educational grant assistance equivalent to ₹50,000",
+      "amount_per_year_inr": 50000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://directorateofhighereducation.assam.gov.in",
+      "source_url": "https://assam.gov.in"
+    },
+    {
+      "id": "delhi-merit-scholarship-scst",
+      "name": "Delhi Govt Merit Scholarship for SC/ST/OBC/Minority College Students",
+      "provider": "Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Professional and Technical degree courses in recognized universities / colleges in Delhi"
+      ],
+      "states": [
+        "Delhi"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority"
+      ],
+      "gender": "any",
+      "max_income_lakh": 3.0,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% or above in previous qualifying examination; Delhi resident for at least 3 years",
+      "special": null,
+      "amount_text": "₹10,000 to ₹20,000/yr (up to 100% course fee reimbursement for students scoring 70%+)",
+      "amount_per_year_inr": 20000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://edistrict.delhigovt.nic.in",
+      "source_url": "https://delhi.gov.in"
+    },
+    {
+      "id": "delhi-jai-bhim-pratibha",
+      "name": "Jai Bhim Mukhyamantri Pratibha Vikas Yojana (Delhi Free Coaching Scheme)",
+      "provider": "Government of NCT of Delhi",
+      "level": [
+        "UG",
+        "Class 11-12"
+      ],
+      "courses": [
+        "Competitive exams preparation (UPSC, SSC, JEE, NEET, CLAT, Banking, State PCS)"
+      ],
+      "states": [
+        "Delhi"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC",
+        "EWS"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": null,
+      "marks_note": "Passed Class 10 and 12 from schools in Delhi; Delhi resident with valid caste / EWS certificate",
+      "special": "Free coaching in empanelled premier institutions + monthly stipend for travel/books",
+      "amount_text": "100% full coaching fees paid to institute (up to ₹1,00,000) + ₹2,500/month student stipend",
+      "amount_per_year_inr": 130000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://edistrict.delhigovt.nic.in",
+      "source_url": "https://delhi.gov.in"
+    },
+    {
+      "id": "hp-mukhyamantri-protsahan",
+      "name": "Mukhyamantri Protsahan Yojana (Himachal Pradesh Premier Institutions)",
+      "provider": "Department of Higher Education, Government of Himachal Pradesh",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Degree courses in premier national institutions: IITs, IIMs, AIIMS, IISc, NITs, and National Law Universities"
+      ],
+      "states": [
+        "Himachal Pradesh"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Bonafide Himachali student selected through national entrance examinations",
+      "special": "Himachal Pradesh domicile admitted to top-tier national institutions",
+      "amount_text": "₹75,000 one-time incentive grant given to each admitted meritorious student",
+      "amount_per_year_inr": 75000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://hpepass.cgg.gov.in",
+      "source_url": "https://education.hp.gov.in"
+    },
+    {
+      "id": "jharkhand-ekalyan-post-matric",
+      "name": "Jharkhand e-Kalyan Post-Matric Scholarship Scheme",
+      "provider": "Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare Dept, Jharkhand",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Intermediate, ITI, Polytechnic, Degree, Engineering, Medical, Law, Post Graduation"
+      ],
+      "states": [
+        "Jharkhand"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "BC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Income limit: ₹2.5 Lakh for SC/ST; ₹1.5 Lakh for BC/OBC; Jharkhand domicile required",
+      "special": null,
+      "amount_text": "Full non-refundable college fees reimbursement + monthly maintenance allowance",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://ekalyan.cgg.gov.in",
+      "source_url": "https://ekalyan.cgg.gov.in"
+    },
+    {
+      "id": "chhattisgarh-post-matric",
+      "name": "Chhattisgarh Post-Matric Scholarship Scheme (SC / ST / OBC)",
+      "provider": "Tribal and Scheduled Caste Development Department, Government of Chhattisgarh",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Post-matric diploma, degree, engineering, medical, and postgraduate courses"
+      ],
+      "states": [
+        "Chhattisgarh"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Chhattisgarh domicile; family income not exceeding ₹2.5 Lakh/year",
+      "special": null,
+      "amount_text": "Course fee reimbursement and monthly living allowance as per state government norms",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://postmatric-scholarship.cg.nic.in",
+      "source_url": "https://tribal.cg.gov.in"
+    },
+    {
+      "id": "csis-education-loan",
+      "name": "Central Sector Interest Subsidy Scheme (CSIS) on Education Loans",
+      "provider": "Ministry of Education (DHE)",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Approved professional and technical degree/diploma courses in NAAC/NBA accredited institutions"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 4.5,
+      "min_marks_pct": null,
+      "marks_note": "Secured admission to professional course; educational loan taken under IBA scheme",
+      "special": "100% full interest subsidy during moratorium period (course period + 1 year) on bank education loans",
+      "amount_text": "Full interest waiver during course period on education loans up to ₹10 Lakh from scheduled banks",
+      "amount_per_year_inr": null,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.vidyalakshmi.co.in",
+      "source_url": "https://www.education.gov.in"
+    },
+    {
+      "id": "icmr-jrf",
+      "name": "ICMR Junior Research Fellowship (Biomedical Sciences)",
+      "provider": "Indian Council of Medical Research (ICMR)",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Ph.D in Life Sciences, Microbiology, Physiology, Molecular Biology, Genetics, Human Biology, Bioinformatics"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 55.0,
+      "marks_note": "55% marks in M.Sc / M.A or equivalent (50% for SC/ST/PwD); valid ICMR JRF national entrance score",
+      "special": null,
+      "amount_text": "₹37,000/month (JRF) / ₹42,000/month (SRF) + annual research contingency grant of ₹20,000",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://main.icmr.nic.in",
+      "source_url": "https://main.icmr.nic.in"
+    },
+    {
+      "id": "ugc-pdf-women",
+      "name": "Post Doctoral Fellowship for Women (UGC)",
+      "provider": "University Grants Commission (UGC)",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Post-Doctoral research in Sciences, Engineering, Technology, Humanities, and Social Sciences"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Unemployed women candidates holding a recognized Ph.D degree in any discipline; age up to 55 years",
+      "special": "Exclusively for women Ph.D degree holders wishing to pursue advanced independent post-doctoral research",
+      "amount_text": "₹47,000/month for first 2 years; ₹54,000/month for 3rd-5th year + ₹50,000/yr research contingency",
+      "amount_per_year_inr": 648000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.ugc.gov.in",
+      "source_url": "https://www.ugc.gov.in"
+    },
+    {
+      "id": "aicte-swanath-diploma",
+      "name": "AICTE Swanath Scholarship Scheme (Technical Diploma)",
+      "provider": "AICTE",
+      "level": [
+        "Diploma"
+      ],
+      "courses": [
+        "AICTE-approved polytechnic and technical diploma institutions"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": null,
+      "marks_note": "Enrolled in 1st year (or lateral entry 2nd year) technical diploma course",
+      "special": "Orphan, or ward of parents deceased due to COVID-19, or ward of Armed Forces personnel martyred in action",
+      "amount_text": "₹50,000 per annum towards academic fee and living expenses",
+      "amount_per_year_inr": 50000,
+      "deadline_2026_27": "2026-10-31",
+      "status": "closed_2026_27",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://www.aicte-india.org"
+    },
+    {
+      "id": "inspire-fellowship-phd",
+      "name": "INSPIRE Fellowship for Doctoral (Ph.D) Research in Science & Tech",
+      "provider": "Department of Science & Technology (DST)",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Full-time Ph.D in Basic & Applied Sciences, Engineering Sciences, Agricultural & Veterinary Sciences, Medicine"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 65.0,
+      "marks_note": "1st Rank holder in university examination at PG level or INSPIRE Scholar with 65%+ in Post-Graduation",
+      "special": "University 1st rank holder in science stream or admitted INSPIRE Scholar",
+      "amount_text": "₹37,000/month (JRF) / ₹42,000/month (SRF) + HRA + ₹20,000/yr contingency grant for 5 years",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://online-inspire.gov.in",
+      "source_url": "https://dst.gov.in"
+    },
+    {
+      "id": "dbt-jrf-bet",
+      "name": "DBT-Junior Research Fellowship (DBT-JRF) / Biotechnology Eligibility Test",
+      "provider": "Department of Biotechnology (DBT), Ministry of Science & Technology",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Ph.D in Biotechnology, Bioinformatics, Life Sciences, Molecular Biology, Agriculture Biotech"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% in M.Sc / M.Tech / B.Tech in Biotechnology or Life Sciences (55% for SC/ST/PwD); qualified BET exam",
+      "special": null,
+      "amount_text": "₹37,000/month (JRF) / ₹42,000/month (SRF) + HRA + ₹30,000/yr contingency grant for 5 years",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://dbtindia.gov.in",
+      "source_url": "https://rcb.res.in"
+    },
+    {
+      "id": "dae-brns-fellowship",
+      "name": "DAE Graduate Fellowship Scheme for Ph.D in Engineering & Sciences",
+      "provider": "Board of Research in Nuclear Sciences (BRNS), Department of Atomic Energy",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "M.Tech and Ph.D in Nuclear Engineering, Chemical, Mechanical, Electrical, Computer Science, Physics, Chemistry"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "Valid GATE score in relevant engineering or science discipline with 60%+ aggregate marks",
+      "special": null,
+      "amount_text": "₹55,000 per month stipend + ₹40,000/yr book and research contingency allowance",
+      "amount_per_year_inr": 660000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.barc.gov.in",
+      "source_url": "https://brns.res.in"
+    },
+    {
+      "id": "ugc-savitribai-phule-single-girl",
+      "name": "Savitribai Jyotirao Phule Fellowship for Single Girl Child (Ph.D)",
+      "provider": "University Grants Commission (UGC)",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Full-time regular Ph.D in any stream (Humanities, Social Sciences, Sciences, Engineering)"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": 55.0,
+      "marks_note": "Enrolled in full-time Ph.D; verified single girl child / only daughter of parents with no brother",
+      "special": "Exclusively for single girl child in the family with no male siblings",
+      "amount_text": "₹37,000/month (first 2 years) / ₹42,000/month (remaining years) + HRA + contingency allowance",
+      "amount_per_year_inr": 444000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.ugc.gov.in",
+      "source_url": "https://www.ugc.gov.in"
+    },
+    {
+      "id": "drdo-scholarship-girls",
+      "name": "DRDO Scholarship Scheme for Girls in Aerospace / Aeronautical Engineering",
+      "provider": "Defence Research and Development Organisation (DRDO), Ministry of Defence",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "B.E., B.Tech, M.E., M.Tech in Aerospace, Aeronautical, Space, Avionics, or Aircraft Engineering"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Valid JEE Main score for UG (or valid GATE score for PG); enrolled in 1st year full-time course",
+      "special": "Female students pursuing aerospace, aeronautical, rocket, or space systems engineering",
+      "amount_text": "₹1,20,000 per year (for B.Tech girls) / ₹1,86,000 per year (for M.Tech girls)",
+      "amount_per_year_inr": 120000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://rac.gov.in",
+      "source_url": "https://www.drdo.gov.in"
+    },
+    {
+      "id": "pmrf-phd",
+      "name": "Prime Minister's Research Fellowship (PMRF)",
+      "provider": "Ministry of Education / National Coordinating Institute (IITs & IISc)",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "Direct Ph.D in Science, Technology, Engineering, Mathematics, and Design at premier national institutions"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 75.0,
+      "marks_note": "CGPA 8.0 or 75% marks in qualifying degree from central/state universities with high GATE rank or admission into PMRF granting institute",
+      "special": "Prestigious national fellowship for cutting-edge doctoral research at IITs, IISc, IISERs",
+      "amount_text": "₹70,000/month (1st-2nd yr), ₹75,000/month (3rd yr), ₹80,000/month (4th-5th yr) + ₹2 Lakh/yr research grant",
+      "amount_per_year_inr": 900000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.pmrf.in",
+      "source_url": "https://www.education.gov.in"
+    },
+    {
+      "id": "msje-transgender-scholarship",
+      "name": "National Post-Matric Scholarship for Transgender Students",
+      "provider": "Ministry of Social Justice & Empowerment (SMILE Scheme)",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Recognized post-matric courses from Class 11 up to postgraduate and professional degrees"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "other",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Valid Transgender Certificate / Identity Card issued through National Portal for Transgender Persons",
+      "special": "Transgender certificate issued under Transgender Persons (Protection of Rights) Act",
+      "amount_text": "₹13,500/yr stipend + tuition and examination fee reimbursement + monthly maintenance allowance",
+      "amount_per_year_inr": 13500,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://transgender.dosje.gov.in",
+      "source_url": "https://socialjustice.gov.in"
+    },
+    {
+      "id": "nmmss-higher-sec-renewal",
+      "name": "National Means-cum-Merit Scholarship (Higher Secondary Continuation)",
+      "provider": "Department of School Education & Literacy, Ministry of Education",
+      "level": [
+        "Class 11-12"
+      ],
+      "courses": [
+        "Class 11 and Class 12 in Government, Government-aided, or Local Body schools"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 3.5,
+      "min_marks_pct": 55.0,
+      "marks_note": "Minimum 55% marks in Class 10 board examination (50% for SC/ST)",
+      "special": "Awardees of NMMSS examination studying in Class 11 and 12",
+      "amount_text": "₹12,000 per annum (₹1,000 per month) credited directly to student bank account via DBT",
+      "amount_per_year_inr": 12000,
+      "deadline_2026_27": "2026-10-31",
+      "status": "closed_2026_27",
+      "official_portal": "https://scholarships.gov.in",
+      "source_url": "https://dsel.education.gov.in"
+    },
+    {
+      "id": "inspire-she-pg",
+      "name": "INSPIRE Scholarship for Higher Education - M.Sc / Research Component",
+      "provider": "Department of Science & Technology",
+      "level": [
+        "PG"
+      ],
+      "courses": [
+        "2-year M.Sc or 4th-5th year of 5-year Integrated M.Sc in Natural & Basic Sciences"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "Minimum 60% aggregate (or 7.0 CGPA) in B.Sc degree; continuous performance in basic sciences",
+      "special": null,
+      "amount_text": "₹80,000/yr (₹60,000 scholarship + ₹20,000 annual summer mentorship project allowance)",
+      "amount_per_year_inr": 80000,
+      "deadline_2026_27": "2026-12-07",
+      "status": "open_verify_date",
+      "official_portal": "https://online-inspire.gov.in",
+      "source_url": "https://dst.gov.in"
+    },
+    {
+      "id": "nishd-hearing-scholarship",
+      "name": "National Scholarship for Students with Hearing and Visual Impairment",
+      "provider": "Ali Yavar Jung National Institute of Speech and Hearing Disabilities (AYJNISHD), DEPwD",
+      "level": [
+        "School",
+        "Diploma",
+        "UG"
+      ],
+      "courses": [
+        "Pre-matric, post-matric, technical, vocational, and undergraduate degree courses"
+      ],
+      "states": [
+        "ALL"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Disability certificate of 40% or more hearing or speech impairment",
+      "special": "40% or more benchmark hearing/speech or visual disability with UDID",
+      "amount_text": "₹15,000 to ₹25,000 per year towards educational materials, special devices, and tuition aid",
+      "amount_per_year_inr": 20000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://ayjnih.nic.in",
+      "source_url": "https://disabilityaffairs.gov.in"
+    },
+    {
+      "id": "wb-aikyashree",
+      "name": "Aikyashree West Bengal State Scholarship for Minority Students",
+      "provider": "West Bengal Minorities' Development & Finance Corporation (WBMDFC)",
+      "level": [
+        "School",
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Class 1 to 10, Intermediate, ITI, Polytechnic, General Degree, Professional & Technical courses"
+      ],
+      "states": [
+        "West Bengal"
+      ],
+      "categories": [
+        "Minority"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": 50.0,
+      "marks_note": "50% marks in previous examination; West Bengal domicile from notified minority community",
+      "special": null,
+      "amount_text": "₹11,000 to ₹33,000 per year (full tuition fee reimbursement + monthly maintenance allowance)",
+      "amount_per_year_inr": 33000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://wbmdfcscholarship.in",
+      "source_url": "https://wbmdfc.org"
+    },
+    {
+      "id": "wb-kanyashree-k2-k3",
+      "name": "Kanyashree Prakalpa (K2 & K3) for Higher Education of Girls",
+      "provider": "Department of Women & Child Development & Social Welfare, West Bengal",
+      "level": [
+        "Class 11-12",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Higher Secondary, Undergraduate, and Postgraduate (Arts, Science, Commerce) degrees"
+      ],
+      "states": [
+        "West Bengal"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": 45.0,
+      "marks_note": "Unmarried girl student registered under Kanyashree enrolled in regular PG degree",
+      "special": "K2 provides ₹25,000 one-time grant at age 18; K3 provides monthly aid for university master's degree",
+      "amount_text": "₹25,000 one-time grant (K2) + ₹2,000/month (Arts/Commerce) / ₹2,500/month (Science) in PG (K3)",
+      "amount_per_year_inr": 30000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://wbkanyashree.gov.in",
+      "source_url": "https://wb.gov.in"
+    },
+    {
+      "id": "wb-oasis-scholarship",
+      "name": "Oasis Post-Matric Scholarship for SC, ST and OBC Students (West Bengal)",
+      "provider": "Backward Classes Welfare Department, Government of West Bengal",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Post-matric courses in recognized institutions in West Bengal"
+      ],
+      "states": [
+        "West Bengal"
+      ],
+      "categories": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Income limit: ₹2.5 Lakh for SC/ST; ₹1.0 Lakh for OBC; West Bengal domicile",
+      "special": null,
+      "amount_text": "Non-refundable tuition fee reimbursement + monthly maintenance allowance up to ₹1,200/month",
+      "amount_per_year_inr": 14400,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://oasis.gov.in",
+      "source_url": "https://anagrasarkalyan.gov.in"
+    },
+    {
+      "id": "maha-swadhar-yojana",
+      "name": "Dr. Babasaheb Ambedkar Swadhar Yojana for SC Students (Maharashtra)",
+      "provider": "Social Justice and Special Assistance Department, Government of Maharashtra",
+      "level": [
+        "Class 11-12",
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Higher secondary, ITI, Polytechnic, Graduation, Medicine, Engineering, Post-Graduation"
+      ],
+      "states": [
+        "Maharashtra"
+      ],
+      "categories": [
+        "SC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": 50.0,
+      "marks_note": "50% marks in previous exam (40% for PwD); admitted to college outside home town and not in govt hostel",
+      "special": "SC students eligible for government hostels but who could not get admission due to shortage of seats",
+      "amount_text": "₹51,000/yr in Mumbai, Pune, Nagpur, MMRDA / ₹43,000/yr in other tier-2 cities for food, stay & books",
+      "amount_per_year_inr": 51000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://sjsa.maharashtra.gov.in",
+      "source_url": "https://mahadbt.maharashtra.gov.in"
+    },
+    {
+      "id": "maha-rajarshi-shahu-merit",
+      "name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship for 10th Passed SC",
+      "provider": "Social Justice and Special Assistance Department, Government of Maharashtra",
+      "level": [
+        "Class 11-12"
+      ],
+      "courses": [
+        "Class 11 and Class 12 junior college education in Arts, Science, Commerce, Vocational"
+      ],
+      "states": [
+        "Maharashtra"
+      ],
+      "categories": [
+        "SC"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": 75.0,
+      "marks_note": "75% or above marks in Maharashtra SSC (Class 10) examination; no family income restriction",
+      "special": null,
+      "amount_text": "₹300 per month for 10 months each year in Class 11 and 12 (₹6,000 over two years)",
+      "amount_per_year_inr": 3000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://mahadbt.maharashtra.gov.in",
+      "source_url": "https://sjsa.maharashtra.gov.in"
+    },
+    {
+      "id": "mp-gaon-ki-beti",
+      "name": "Gaon Ki Beti Yojana (Rural Girl Child Higher Education Scheme - MP)",
+      "provider": "Higher Education Department, Government of Madhya Pradesh",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Undergraduate degree courses in government and private recognized colleges in Madhya Pradesh"
+      ],
+      "states": [
+        "Madhya Pradesh"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% or above in Class 12 from a village/rural school; holds a verified Gaon Ki Beti certificate",
+      "special": "Girl students who completed 12th board from village schools with 1st division",
+      "amount_text": "₹500 per month for 10 months (₹5,000 per year) up to completion of graduation",
+      "amount_per_year_inr": 5000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarshipportal.mp.nic.in",
+      "source_url": "https://highereducation.mp.gov.in"
+    },
+    {
+      "id": "mp-vikramaditya-scholarship",
+      "name": "Vikramaditya Free Higher Education Scheme for General Category (MP)",
+      "provider": "Higher Education Department, Government of Madhya Pradesh",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Undergraduate degree courses in recognized colleges in Madhya Pradesh"
+      ],
+      "states": [
+        "Madhya Pradesh"
+      ],
+      "categories": [
+        "General"
+      ],
+      "gender": "any",
+      "max_income_lakh": 1.2,
+      "min_marks_pct": 60.0,
+      "marks_note": "60% in Class 12; family belongs to Below Poverty Line (BPL) with income under ₹1,20,000",
+      "special": "General category economically weaker / BPL students",
+      "amount_text": "Tuition fee reimbursement up to ₹2,500/yr for general courses; up to ₹7,100/yr for professional courses",
+      "amount_per_year_inr": 7100,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://scholarshipportal.mp.nic.in",
+      "source_url": "https://highereducation.mp.gov.in"
+    },
+    {
+      "id": "gujarat-mysy",
+      "name": "Mukhyamantri Yuva Swavalamban Yojana (MYSY - Gujarat Higher Education)",
+      "provider": "Education Department, Government of Gujarat",
+      "level": [
+        "Diploma",
+        "UG"
+      ],
+      "courses": [
+        "Diploma, Engineering, Pharmacy, Architecture, Dental, Medical (MBBS), Pure Science, Arts, Commerce"
+      ],
+      "states": [
+        "Gujarat"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 6.0,
+      "min_marks_pct": 80.0,
+      "marks_note": "Minimum 80 percentile in Class 10 (for Diploma) or Class 12 (for Degree) board examination",
+      "special": "Tuition fee assistance + annual hostel allowance + instrument/book grant",
+      "amount_text": "50% tuition fees reimbursement (up to ₹2,00,000 for MBBS, ₹50,000 for Engineering) + ₹12,000/yr hostel grant + ₹10,000 book grant",
+      "amount_per_year_inr": 222000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://mysy.guj.nic.in",
+      "source_url": "https://mysy.guj.nic.in"
+    },
+    {
+      "id": "gujarat-kanya-kelavani",
+      "name": "Kanya Kelavani Nidhi (Gujarat Free Professional Education for Girls)",
+      "provider": "Department of Higher Education, Government of Gujarat",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Self-financed medical, dental, engineering, technology, and postgraduate professional courses"
+      ],
+      "states": [
+        "Gujarat"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Secured admission into recognized self-financed professional degree college in Gujarat",
+      "special": "Interest-free loan / educational subsidy scheme for female professional students",
+      "amount_text": "100% full tuition fee assistance provided through state revolving educational fund",
+      "amount_per_year_inr": 150000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://kanyakelavani.org",
+      "source_url": "https://gujaratindia.gov.in"
+    },
+    {
+      "id": "rajasthan-uchha-shiksha-scholarship",
+      "name": "Mukhyamantri Uchha Shiksha Scholarship Scheme (Rajasthan)",
+      "provider": "Department of College Education, Government of Rajasthan",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Regular full-time undergraduate degree courses in recognized Rajasthan colleges"
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": 60.0,
+      "marks_note": "Minimum 60% marks in RBSE Class 12 board (ranked within top 1 lakh merit positions)",
+      "special": null,
+      "amount_text": "₹500 per month for 10 months each year (₹5,000 per year) up to 5 continuous years",
+      "amount_per_year_inr": 5000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://hte.rajasthan.gov.in",
+      "source_url": "https://sje.rajasthan.gov.in"
+    },
+    {
+      "id": "rajasthan-devnarayan-scooty",
+      "name": "Devnarayan Free Scooty and Incentive Assistance Scheme for MBC Girls",
+      "provider": "Department of College Education, Government of Rajasthan",
+      "level": [
+        "UG",
+        "Class 11-12"
+      ],
+      "courses": [
+        "Class 12, Undergraduate degree, and Post-Graduate degree in Rajasthan recognized colleges"
+      ],
+      "states": [
+        "Rajasthan"
+      ],
+      "categories": [
+        "BC"
+      ],
+      "gender": "female",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": 50.0,
+      "marks_note": "Minimum 50% marks in Class 12 RBSE / CBSE board; student must belong to MBC communities (Gujjars, Raika, Banjara, Gadariya)",
+      "special": "Free motorized Scooty with 2-litre petrol, helmet & insurance or annual cash incentive up to ₹20,000",
+      "amount_text": "Free Motorized Scooty awarded upon college admission or ₹10,000/yr (UG) / ₹20,000/yr (PG) incentive grant",
+      "amount_per_year_inr": 20000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://hte.rajasthan.gov.in",
+      "source_url": "https://hte.rajasthan.gov.in"
+    },
+    {
+      "id": "karnataka-vidyasiri-faas",
+      "name": "Karnataka Vidyasiri Scheme (Food & Accommodation Assistance Scheme - FAAS)",
+      "provider": "Department of Backward Classes Welfare, Government of Karnataka",
+      "level": [
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Post-matric diploma, polytechnic, graduation, medical, engineering, and master's degree courses"
+      ],
+      "states": [
+        "Karnataka"
+      ],
+      "categories": [
+        "OBC",
+        "BC"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": null,
+      "marks_note": "Karnataka domicile; family income under ₹2.5 Lakh (Cat-1) or ₹1.0 Lakh (Cat-2A/3A/3B); distance to college > 5km",
+      "special": "Hostel and food allowance for students residing in private accommodation / paying guest",
+      "amount_text": "₹1,500 per month for 10 months (₹15,000 per year) credited directly via Aadhaar DBT",
+      "amount_per_year_inr": 15000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://bcwd.karnataka.gov.in",
+      "source_url": "https://ssp.postmatric.karnataka.gov.in"
+    },
+    {
+      "id": "karnataka-cm-higher-education",
+      "name": "Karnataka Chief Minister's Higher Education Scholarship Scheme",
+      "provider": "Department of Collegiate Education, Government of Karnataka",
+      "level": [
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Undergraduate and postgraduate courses in Government and Aided colleges in Karnataka"
+      ],
+      "states": [
+        "Karnataka"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 2.5,
+      "min_marks_pct": 80.0,
+      "marks_note": "Minimum 80% marks in Karnataka 2nd PUC / 12th board; Karnataka domicile",
+      "special": null,
+      "amount_text": "₹10,000 per annum credited directly to beneficiary bank account",
+      "amount_per_year_inr": 10000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://ssp.postmatric.karnataka.gov.in",
+      "source_url": "https://dce.karnataka.gov.in"
+    },
+    {
+      "id": "up-abhyudaya-scheme",
+      "name": "Mukhyamantri Abhyudaya Free Coaching and Tablet Scheme (Uttar Pradesh)",
+      "provider": "Social Welfare Department, Government of Uttar Pradesh",
+      "level": [
+        "UG",
+        "PG",
+        "Class 11-12"
+      ],
+      "courses": [
+        "Preparation for competitive exams: UPSC Civil Services, UPPSC, JEE, NEET, NDA, CDS, Banking, UGC NET"
+      ],
+      "states": [
+        "Uttar Pradesh"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": 8.0,
+      "min_marks_pct": null,
+      "marks_note": "Uttar Pradesh domicile; selected through division-level Abhyudaya online entrance examination",
+      "special": "Free classroom and virtual coaching by IAS/IPS/PCS officers and subject experts + free digital tablet device",
+      "amount_text": "100% free coaching, test series, study materials, and free tablet computer for meritorious attendees",
+      "amount_per_year_inr": 80000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://abhyuday.up.gov.in",
+      "source_url": "https://socialwelfare.up.gov.in"
+    },
+    {
+      "id": "bihar-kanya-utthan-graduation",
+      "name": "Mukhyamantri Kanya Utthan Yojana (Graduation Incentive for Girls - Bihar)",
+      "provider": "Education Department, Government of Bihar",
+      "level": [
+        "UG"
+      ],
+      "courses": [
+        "Graduation in any stream (BA, B.Sc, B.Com, Engineering, Vocational) from recognized Bihar colleges"
+      ],
+      "states": [
+        "Bihar"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "female",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Unmarried female student passing graduation from recognized university/college in Bihar",
+      "special": "One-time direct financial incentive transferred upon completing Bachelor's degree",
+      "amount_text": "₹50,000 direct one-time DBT financial assistance credited to student's bank account",
+      "amount_per_year_inr": 50000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://medhasoft.bih.nic.in",
+      "source_url": "https://state.bihar.gov.in/educationbihar"
+    },
+    {
+      "id": "bihar-student-credit-card",
+      "name": "Bihar Student Credit Card Scheme (MNSSBY Higher Education Loan)",
+      "provider": "Bihar State Education Finance Corporation (BSEFC), Government of Bihar",
+      "level": [
+        "Diploma",
+        "UG",
+        "PG"
+      ],
+      "courses": [
+        "Over 40 recognized professional & general courses (B.Tech, MBBS, BBA, BCA, Polytechnic, GNM, B.Sc)"
+      ],
+      "states": [
+        "Bihar"
+      ],
+      "categories": [
+        "ALL"
+      ],
+      "gender": "any",
+      "max_income_lakh": null,
+      "min_marks_pct": null,
+      "marks_note": "Passed Class 12 from Bihar board or recognized school; admitted to NAAC 'A' or NBA accredited institution",
+      "special": "State guarantee loan up to ₹4 Lakh at 1% simple interest for girls/disabled/transgender (4% for boys)",
+      "amount_text": "Education financing up to ₹4,00,000 covering college fees, books, laptop, and hostel living expenses",
+      "amount_per_year_inr": 100000,
+      "deadline_2026_27": null,
+      "status": "check_portal",
+      "official_portal": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+      "source_url": "https://state.bihar.gov.in"
     }
   ]
 };

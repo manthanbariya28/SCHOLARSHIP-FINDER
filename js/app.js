@@ -921,11 +921,30 @@
       .replace(/'/g, '&#039;');
   }
 
+  // Expose ScholarFinder API for feature modules
+  function exposeAPI() {
+    window.ScholarFinder = {
+      state: state,
+      DOM: DOM,
+      applyFiltersAndRender: applyFiltersAndRender,
+      renderCards: renderCards,
+      openModal: openModal,
+      closeModal: closeModal,
+      formatINR: formatINR,
+      getStatusMeta: getStatusMeta,
+      escapeHtml: escapeHtml,
+      toggleBookmark: toggleBookmark,
+      resetAllFilters: resetAllFilters,
+      updateBookmarkBadge: updateBookmarkBadge
+    };
+    document.dispatchEvent(new CustomEvent('scholarfinder:ready'));
+  }
+
   // Run on DOM content loaded
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', () => { init().then(exposeAPI); });
   } else {
-    init();
+    init().then(exposeAPI);
   }
 
 })();
